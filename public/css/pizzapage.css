@@ -1,0 +1,31 @@
+.col1{
+	background: blue;
+}
+.col2{
+	background: pink;
+}
+
+.nested1{
+	background: yellow;
+}
+
+.nested2{
+background: brown;
+}
+
+a{
+	color: white;
+}
+
+ .footertext{
+	color: white;
+	margin-top: 20px;
+}
+
+.About{
+	margin-bottom: 20px;
+}
+
+.nav-1, .footer{
+	background-color: darkred !important;
+}

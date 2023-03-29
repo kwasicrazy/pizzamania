@@ -1,0 +1,17 @@
+
+a{
+    text-decoration: none;
+}
+.pizzatypes{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer{
+    background-color: darkred;
+}
+ 
+.footer-text{
+    margin-top: 15px;
+    color: black;
+}
